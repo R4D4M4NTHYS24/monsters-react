@@ -6,14 +6,3 @@
   line-height: 30px;
   margin-bottom: 30px;
 }
-
-@media screen and (max-width: 800px) {
-  .search-box {
-    border: none;
-    outline: none;
-    padding: 10px;
-    width: 150px;
-    line-height: 30px;
-    margin-bottom: 30px;
-  }
-} ;
